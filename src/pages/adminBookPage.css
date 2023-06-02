@@ -1,0 +1,36 @@
+/*Admin book page */
+
+
+.tab-links{
+  font-size:1.5em;
+}
+.SignIn-btn{
+background-color: #41a1ae;
+border: none;
+color: white;
+padding: 5px 20px;
+text-align: center;
+text-decoration: none;
+font-size: 16px;
+cursor: pointer;
+border-radius: 5px;
+
+}
+.buttons{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 10.5rem;
+}
+
+.add-new-book-btn {
+  background-color: hsl(184, 51%, 36%);
+  border: none;
+  color: white;
+  padding: 20px 133px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 2rem 9rem -5rem 
+}
